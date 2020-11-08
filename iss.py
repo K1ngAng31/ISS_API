@@ -25,7 +25,7 @@ def welcome():
 
 
     API --> Current people in ISS: http://api.open-notify.org/astros.json
-    API --> Time that ISS will pass:
+    API --> Time that ISS will pass: http://api.open-notify.org/iss-pass.json
 
     =======================================================================
 
