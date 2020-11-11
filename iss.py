@@ -104,8 +104,6 @@ def iss_pass(user_state):
     #to fix this we can use our python library datetime and convert it to
     #more comprehensible time
 
-    from datetime import datetime as dt
-
     times = []#store our time values
     print("     The pass times for ", user_state, "are:\n")
     for i in risetimes:
