@@ -4,7 +4,7 @@
 
 import requests as rq
 import json
-from datetime import datetime
+from datetime import datetime as dt
 import pandas as pd
 
 
